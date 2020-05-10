@@ -1,5 +1,2 @@
-a=3
-b=2
-c=a+b
-print(c)
-print(c*2)
+import numpy as np
+
