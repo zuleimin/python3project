@@ -15,3 +15,5 @@ for x, y in data.items():
         print(x, "failed :(")
     else:
         print(x, "passed :)")
+
+# coversation with kitty
